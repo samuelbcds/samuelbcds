@@ -19,9 +19,8 @@
 ---
 
 ## 📌 Sobre mim
-- 🔍 Sempre em busca de aprender coisas novas e me conectar com pessoas da minha área.  
-- ⚡ Interesso-me tanto por **software** quanto por **hardware**. 
-- 🤝 Aberto a colaborar em projetos, especialmente com foco em **web** e **inovação**.  
+- 🔍 Em busca de aprender coisas novas e me conectar com pessoas da minha área.  
+- 🤝 Aberto a colaborar em projetos, especialmente com foco em **web** e **infraestrutura**.  
 
 ---
 
